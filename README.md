@@ -60,11 +60,11 @@ class _AppNewVersionState extends State<AppNewVersion> {
 
 
 
-[comment]: <> (<td>)
+<td>
 
-[comment]: <> (<img src="https://firebasestorage.googleapis.com/v0/b/mdfreefirefreediamond.appspot.com/o/Screenshot%202022-11-09%20at%201.00.21%20PM.png?alt=media&token=3c51bb95-55ba-42b7-aee3-c36974098712">)
+<img src="https://firebasestorage.googleapis.com/v0/b/mdfreefirefreediamond.appspot.com/o/Screenshot%202022-11-09%20at%201.00.21%20PM.png?alt=media&token=3c51bb95-55ba-42b7-aee3-c36974098712">
 
-[comment]: <> (</td>)
+</td>
 
 ## Additional information
 

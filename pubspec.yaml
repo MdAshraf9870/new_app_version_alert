@@ -1,7 +1,11 @@
 name: new_app_version_alert
 description: A new Flutter project.
 version: 0.0.1
+<<<<<<< HEAD
 homepage: https://github.com/MdAshraf9870/-new_app_version_alert
+=======
+homepage: https://github.com/MdAshraf9870/new_app_version_alert
+>>>>>>> a4bb3be (Initial commit)
 
 environment:
   sdk: '>=2.18.0 <3.0.0'
