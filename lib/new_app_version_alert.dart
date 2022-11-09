@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'dart:io';
 import 'package:http/http.dart' as http;
 import 'package:flutter/material.dart';
+import 'package:new_app_version_alert/Const.dart';
 import 'package:package_info/package_info.dart';
 import 'package:url_launcher/url_launcher.dart';
 
@@ -109,7 +110,7 @@ class NewVersionCheck {
           children: [
             SizedBox(
               height: 200,
-              child: Image.asset(updateImage ?? "assets/Update-pana.png"),
+              child: updateImage!=null?Image.asset(updateImage!):Image.memory(base64Decode(ConsT.updateIcon)),
             ),
             const SizedBox(height: 10),
             const Text(

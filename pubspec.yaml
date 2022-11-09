@@ -1,14 +1,12 @@
 name: new_app_version_alert
-description: A new Flutter project.
-version: 0.0.1
-<<<<<<< HEAD
+description: check your app new version
+version: 0.0.4
+
 homepage: https://github.com/MdAshraf9870/-new_app_version_alert
-=======
-homepage: https://github.com/MdAshraf9870/new_app_version_alert
->>>>>>> a4bb3be (Initial commit)
+
 
 environment:
-  sdk: '>=2.18.0 <3.0.0'
+  sdk: '>=2.12.0 <3.0.0'
   flutter: ">=1.17.0"
 
 dependencies:

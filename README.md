@@ -11,22 +11,19 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+TODO: check your app new version
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+TODO: esy to check new app version and beautifully alert dialog .
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+TODO: To use this package, add new_app_version_alert as a dependency in your pubspec.yaml file.
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+TODO: NewVersionCheck.newVersionCheck(context, "androidPackageName", "iosPackageName");
 
 ```dart
 // Example Code
@@ -61,13 +58,7 @@ class _AppNewVersionState extends State<AppNewVersion> {
 
 
 <td>
-
 <img src="https://firebasestorage.googleapis.com/v0/b/mdfreefirefreediamond.appspot.com/o/Screenshot%202022-11-09%20at%201.00.21%20PM.png?alt=media&token=3c51bb95-55ba-42b7-aee3-c36974098712">
-
 </td>
 
-## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
